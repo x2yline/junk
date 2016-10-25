@@ -23,3 +23,6 @@ wifi共享大师（破解锐捷限制wifi专用）
 
 9.HTTP Analyzer.7z
 7.5.3汉化版
+
+10.psiphon3.exe
+赛风3
